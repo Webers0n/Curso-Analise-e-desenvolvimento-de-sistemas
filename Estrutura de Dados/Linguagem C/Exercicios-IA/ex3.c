@@ -10,7 +10,7 @@ int main()
     int opcao;
 
     printf("Escolha a operação para gerar a tabuada:\n");
-    printf("1 - Multiplicação\n2 - Subtração\n3 - Soma\n4 - Divisão\n");
+    printf("1 - Multiplicação\n2 - Subtração\n3 - Soma\n4 - Divisão\n");+   
     printf("Digite a opção [1 a 4]: ");
     scanf("%i", &opcao);
 
